@@ -1,2 +1,2 @@
 # git_test
-hello odin1
+hello odin69
